@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rubybunnyburt5.github.io/info-pages/sitemap.xml
